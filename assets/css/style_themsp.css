@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+}
+.form-group{
+    width:70%;
+    margin:auto;
+}
+.card-header{
+    font-size: 40px;
+    width: 100%;
+    background-color: #8B658B;
+    padding:25px 0;
+}
+.card-header h2{
+    text-align: center;
+}
+.container-fluid{
+    width: 100%;
+    background-color: #8B658B;
+}
+.card-body{
+    background-color: #FFC1C1;
+    height: calc(100vh - 118.8px);
+}
+
+.form-item{
+    padding:15px;
+    display: flex;   
+}
+
+.lon{
+    height: 100vh;
+    background-color: #FA8072;
+}
+.nho{
+    background-color: blueviolet;
+    height: auto;
+}
+.tieude{
+    height: calc(70vh - 298.8px);
+}
+.tieude h1{
+    text-align: center;
+}
+/* Clas set chung */
+.w-15{
+    width:15%;
+}

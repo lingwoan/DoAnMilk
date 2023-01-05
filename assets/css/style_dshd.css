@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.row{
+    align-items: center;
+    background-color: #43CD80;/* Chỉnh màu nền*/
+    color: #F0F8FF; /* Chỉnh màu chữ */
+}
+.item {
+    background-color: #54FF9F;
+}
+
+.item-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.coli {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-primary{
+    margin-left: 965px;
+}
+
+/*.container-fluid {
+    background-color: aqua;
+}*/
+
+.tuade{
+    margin-left: 517px;
+}

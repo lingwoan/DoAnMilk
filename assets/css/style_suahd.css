@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+}
+.form-group{
+    width:70%;
+    margin:auto;
+}
+.card-header{
+    font-size: 40px;
+    width: 100%;
+    background-color: #8B2323;
+    padding:25px 0;
+    color: aliceblue;
+}
+.card-header h2{
+    text-align: center;
+}
+.container-fluid{
+    width: 100%;
+    background-color: #8B2323;
+}
+.card-body{
+    background-color: #FA8072;
+    height: calc(100vh - 118.8px);
+}
+
+.form-item{
+    padding:15px;
+    display: flex;   
+}
+/* Clas set chung */
+.w-15{
+    width:15%;
+}

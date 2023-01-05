@@ -1,0 +1,48 @@
+*dangky*/
+.form-group{
+    width:70%;
+    margin:auto;
+    color: #8B008B;
+    font-size: 20px;
+}
+.form-item{
+    padding:15px;
+    display: flex; 
+}
+.w-15{
+    margin-bottom: 20px;
+    margin-top: 15px;
+    border-radius: 12px;
+}
+.tieude h1{
+    text-align: center;
+}
+.lon{
+    margin-top: -22px;
+    height: 100%;
+    background-image: url("img/suahp.png");
+}
+.nho{
+    margin-left: 440px;
+    background-color: #ffffff;
+    opacity: 0.6;
+    height: calc(100vh - 119.8px);
+    width: calc(100vh - 128.8px);
+    border: 2px solid #ffffff;
+    border-radius: 12px;
+    padding: 5px;
+}
+.nut a{
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 25px;
+    border: 1px solid black;
+}
+.nut input{
+    border-radius: 12px;
+}
+.nut{
+    display: flex;
+    width: 25%;
+    margin: auto;
+}
